@@ -1,5 +1,4 @@
-Chapter 4: Implementing and Communicating Your Workspace Design: Evaluating and Adjusting Your Workspace Design
-===============================================================================================================
+# Evaluating and Adjusting Your Workspace Design
 
 Implementing and communicating your workspace design is a critical step in creating an agile workplace that supports collaboration and innovation. In this chapter, we'll cover strategies for evaluating and adjusting your workspace design to ensure it meets the needs of your employees and supports your business goals.
 

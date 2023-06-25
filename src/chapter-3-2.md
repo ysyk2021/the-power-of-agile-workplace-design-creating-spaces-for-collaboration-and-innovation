@@ -1,5 +1,4 @@
-Chapter 3: Designing an Agile Workspace: Identifying Available Space Options
-============================================================================
+# Identifying Available Space Options
 
 Designing an agile workspace requires careful consideration of available space options. In this chapter, we'll cover strategies for identifying available space options that can be used to create a flexible and collaborative work environment.
 

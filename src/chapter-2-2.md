@@ -1,5 +1,4 @@
-Chapter 2: Understanding Agile Workplace Design: Benefits of Agile Workplace Design
-===================================================================================
+# Benefits of Agile Workplace Design
 
 Agile workplace design is an approach to creating a workspace that promotes collaboration, innovation, and flexibility. In this chapter, we'll explore the benefits of agile workplace design in more detail.
 

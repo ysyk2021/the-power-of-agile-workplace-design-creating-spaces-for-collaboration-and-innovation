@@ -1,5 +1,4 @@
-Chapter 3: Designing an Agile Workspace: Assessing Your Company's Needs
-=======================================================================
+# Assessing Your Company's Needs
 
 Designing an agile workspace requires a thorough assessment of your company's needs. In this chapter, we'll cover strategies for assessing your company's needs to create a workspace that supports collaboration and innovation.
 

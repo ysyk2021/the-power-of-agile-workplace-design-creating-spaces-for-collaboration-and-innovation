@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Collaboration and Creativity: Planning for Collaborative Spaces
-====================================================================================
+# Planning for Collaborative Spaces
 
 Collaborative spaces are a critical component of agile workplace design. By providing spaces that support collaboration, you can enhance teamwork, productivity, and innovation. In this chapter, we'll cover strategies for planning collaborative spaces that meet the needs of your employees.
 

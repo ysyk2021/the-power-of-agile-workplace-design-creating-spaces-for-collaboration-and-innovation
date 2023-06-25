@@ -1,5 +1,4 @@
-Chapter 4: Implementing and Communicating Your Workspace Design: Communicating Changes to Employees
-===================================================================================================
+# Communicating Changes to Employees
 
 Implementing a new workspace design can be a major change for employees, especially if they are used to a traditional office environment. In this chapter, we'll cover strategies for communicating changes to employees during the implementation of a new workspace design.
 

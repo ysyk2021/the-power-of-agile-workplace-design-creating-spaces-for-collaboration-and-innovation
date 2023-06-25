@@ -1,5 +1,4 @@
-Chapter 4: Implementing and Communicating Your Workspace Design: Managing Employee Transitions
-==============================================================================================
+# Managing Employee Transitions
 
 Implementing a new workspace design can be a major change for employees, especially if they are used to a traditional office environment. In this chapter, we'll cover strategies for managing employee transitions during the implementation of a new workspace design.
 

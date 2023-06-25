@@ -1,5 +1,4 @@
-Chapter 3: Designing an Agile Workspace: Building a Customized Workspace Design
-===============================================================================
+# Building a Customized Workspace Design
 
 Designing a customized workspace is essential for creating a flexible and collaborative work environment that meets the needs of your organization. In this chapter, we'll cover strategies for building a customized workspace design.
 

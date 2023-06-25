@@ -1,5 +1,4 @@
-Chapter 9: Integrating Agile Workplace Design with Organizational Culture: Developing an Agile Mindset as a Leader
-==================================================================================================================
+# Developing an Agile Mindset as a Leader
 
 Agile workplace design is more than just physical changes to the workspace. It requires a cultural shift to embrace flexibility, collaboration, and innovation. In this chapter, we'll explore how leaders can develop an agile mindset and integrate it with their organizational culture.
 

@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Obstacles to Agile Workplace Design: Strategies for Overcoming Challenges
-===============================================================================================
+# Strategies for Overcoming Challenges
 
 Agile workplace design can face obstacles that may hinder its successful implementation. In this chapter, we'll explore some common challenges to agile workplace design and strategies for overcoming them.
 

@@ -1,5 +1,4 @@
-Chapter 2: Understanding Agile Workplace Design: Common Myths about Agile Workplace Design
-==========================================================================================
+# Common Myths about Agile Workplace Design
 
 Agile workplace design is an approach to creating a workspace that promotes collaboration, innovation, and flexibility. However, there are several common myths about agile workplace design that can lead to confusion or hesitation when considering this approach. In this chapter, we'll explore some of the most common myths about agile workplace design.
 

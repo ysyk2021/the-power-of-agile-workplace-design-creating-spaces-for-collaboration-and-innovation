@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Collaboration and Creativity: Encouraging Flexibility in Workspaces
-========================================================================================
+# Encouraging Flexibility in Workspaces
 
 Agile workplace design emphasizes flexibility, collaboration, and creativity. In this chapter, we'll explore how businesses can encourage flexibility in their workspaces to enhance collaboration and creativity.
 

@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Obstacles to Agile Workplace Design: Common Obstacles to Agile Workplace Design
-=====================================================================================================
+# Common Obstacles to Agile Workplace Design
 
 Agile workplace design can face obstacles that may hinder its successful implementation. In this chapter, we'll explore some common challenges to agile workplace design.
 

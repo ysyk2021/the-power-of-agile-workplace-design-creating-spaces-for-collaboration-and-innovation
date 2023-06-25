@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Agile Workplace Design: Key Performance Indicators (KPIs) for Measuring Success
-===============================================================================================================
+# Key Performance Indicators (KPIs) for Measuring Success
 
 When implementing agile workplace design, it's important to measure its success to ensure that the workspace is meeting the needs of the business and its employees. In this chapter, we'll explore key performance indicators (KPIs) that can be used to measure the success of agile workplace design.
 

@@ -1,5 +1,4 @@
-Chapter 2: Understanding Agile Workplace Design: Definition of Agile Workplace Design
-=====================================================================================
+# Definition of Agile Workplace Design
 
 Agile workplace design is an approach to creating a workspace that supports collaboration, innovation, and flexibility. In this chapter, we'll define agile workplace design and explore its key principles.
 

@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Collaboration and Creativity: Optimizing Common Areas for Creativity
-=========================================================================================
+# Optimizing Common Areas for Creativity
 
 Common areas are an essential aspect of agile workplace design. In this chapter, we'll explore how businesses can optimize their common areas to enhance collaboration and creativity.
 

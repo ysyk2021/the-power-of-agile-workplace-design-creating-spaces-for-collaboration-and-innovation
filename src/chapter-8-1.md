@@ -1,5 +1,4 @@
-Chapter 8: Case Studies of Successful Implementation of Agile Workplace Design: Real-life Examples of Companies that have Successfully Implemented Agile Workplace Design Strategies
-====================================================================================================================================================================================
+# Real-life Examples of Companies that have Successfully Implemented Agile Workplace Design Strategies
 
 Agile workplace design has been implemented successfully by many companies across various industries. In this chapter, we'll explore real-life examples of companies that have successfully implemented agile workplace design strategies.
 
