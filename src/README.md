@@ -6,7 +6,4 @@ This book covers a wide range of topics related to agile workplace design, inclu
 
 Whether you are a small business owner or a corporate executive, The Power of Agile Workplace Design is an essential resource for creating a workplace that fosters creativity, collaboration, and innovation. With practical tips, actionable strategies, and real-world examples, this book is the ultimate guide for transforming your workplace and unlocking the power of agile workplace design.
 
-
-
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
