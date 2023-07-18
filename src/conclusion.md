@@ -1,8 +1,5 @@
 # Conclusion
 
-Chapter 10: Conclusion
-======================
-
 Agile workplace design has become increasingly popular in recent years as businesses seek to create workspaces that promote collaboration, innovation, and employee well-being. In this book, we've explored the benefits of agile workplace design and provided strategies for implementing it successfully.
 
 Recap of Key Points
