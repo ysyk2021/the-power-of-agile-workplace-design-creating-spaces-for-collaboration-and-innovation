@@ -1,4 +1,4 @@
-Chapter: Key Performance Indicators (KPIs) for Measuring Success
+Key Performance Indicators (KPIs) for Measuring Success
 ================================================================
 
 In this chapter, we will explore the importance of Key Performance Indicators (KPIs) in measuring the success of agile workplace design initiatives. KPIs play a crucial role in evaluating the effectiveness and impact of creating spaces that foster collaboration and innovation. By defining and tracking relevant metrics, organizations can gain valuable insights into the outcomes of their agile workplace strategies.

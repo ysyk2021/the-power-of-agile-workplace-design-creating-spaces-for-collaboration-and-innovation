@@ -1,4 +1,4 @@
-Chapter 5: Communicating Changes to Employees
+Communicating Changes to Employees
 =============================================
 
 In this chapter, we will explore the importance of effective communication when implementing changes within an organization. Specifically, we will discuss how to communicate changes related to agile workplace design to employees. By employing a strategic and inclusive approach to communication, organizations can ensure that their employees understand and embrace these new changes.

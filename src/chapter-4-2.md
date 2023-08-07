@@ -1,4 +1,4 @@
-Chapter: Managing Employee Transitions
+Managing Employee Transitions
 ======================================
 
 Introduction

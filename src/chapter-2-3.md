@@ -1,4 +1,4 @@
-Chapter: Common Myths About Agile Workplace Design
+Common Myths About Agile Workplace Design
 ==================================================
 
 Introduction
