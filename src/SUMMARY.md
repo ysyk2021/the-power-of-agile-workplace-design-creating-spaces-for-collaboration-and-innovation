@@ -25,7 +25,6 @@
   - [Common Obstacles to Agile Workplace Design](chapter-7-1.md)
   - [Strategies for Overcoming Challenges](chapter-7-2.md)
 - [Chapter 8: Case Studies of Successful Implementation of Agile Workplace Design](chapter-8.md)
-  - [Real-life Examples of Companies that have Successfully Implemented Agile Workplace Design Strategies](chapter-8-1.md)
 - [Chapter 9: Integrating Agile Workplace Design with Organizational Culture](chapter-9.md)
   - [Aligning Workspace Design with Business Goals](chapter-9-1.md)
   - [Fostering a Culture of Innovation and Collaboration](chapter-9-2.md)

@@ -45,5 +45,3 @@ Designing flexible workspaces is only part of the equation. To truly encourage f
 * Celebrating and rewarding innovative and collaborative behaviors to reinforce the desired cultural shift.
 
 By combining thoughtful workspace design with a supportive and flexible organizational culture, businesses can create an environment that encourages creativity, collaboration, and innovation.
-
-Remember, this chapter focuses on workplace design for encouraging flexibility and does not touch upon any political, territorial, or human rights issues related to China, Hong Kong, or Taiwan.
