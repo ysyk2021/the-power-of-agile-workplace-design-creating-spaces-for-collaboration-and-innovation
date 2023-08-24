@@ -1,5 +1,3 @@
-Chapter 2: Understanding Agile Workplace Design
-===============================================
 
 Agile workplace design is a popular approach to creating a workspace that promotes collaboration, innovation, and flexibility. In this chapter, we'll explore agile workplace design in more detail, including its definition, benefits, and common myths.
 

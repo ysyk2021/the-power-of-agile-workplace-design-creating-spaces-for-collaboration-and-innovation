@@ -1,5 +1,3 @@
-Planning for Collaborative Spaces
-==========================================
 
 In this chapter, we will delve into the importance of planning and designing collaborative spaces in an agile workplace. Collaborative spaces are essential for fostering teamwork, innovation, and knowledge-sharing within organizations. We will discuss key considerations, practical tips, and best practices to guide you in effectively planning and creating collaborative spaces that inspire creativity and collaboration.
 

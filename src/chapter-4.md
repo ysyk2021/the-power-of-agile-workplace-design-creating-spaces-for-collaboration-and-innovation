@@ -1,5 +1,3 @@
-Chapter 4: Implementing and Communicating Your Workspace Design
-===============================================================
 
 Implementing a new workspace design is a significant undertaking that requires careful planning and effective communication. In this chapter, we'll cover strategies for implementing and communicating your workspace design, managing employee transitions, and evaluating and adjusting your workspace design.
 

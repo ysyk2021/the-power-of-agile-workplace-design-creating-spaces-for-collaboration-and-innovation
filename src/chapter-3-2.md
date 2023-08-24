@@ -1,5 +1,3 @@
-Identifying Available Space Options
-============================================
 
 In this chapter, we will explore the process of identifying available space options for creating an agile workplace design that promotes collaboration and innovation. Finding the right physical space is a crucial step in establishing a successful agile workspace. We will discuss key considerations and strategies to identify and evaluate potential space options.
 

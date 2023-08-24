@@ -1,5 +1,3 @@
-Chapter 5: Enhancing Collaboration and Creativity
-=================================================
 
 Collaboration and creativity are central to the success of any organization. Agile workplace design can help enhance collaboration and creativity by providing spaces that support diverse work needs and encourage communication and idea-sharing. In this chapter, we'll cover strategies for enhancing collaboration and creativity in the workplace.
 

@@ -1,4 +1,3 @@
-# Introduction
 
 The traditional office environment is no longer the only option for businesses looking to create a dynamic and innovative workplace culture. The Power of Agile Workplace Design: Creating Spaces for Collaboration and Innovation offers a comprehensive guide for organizations seeking to transform their workplaces into hubs of creativity, collaboration, and innovation.
 

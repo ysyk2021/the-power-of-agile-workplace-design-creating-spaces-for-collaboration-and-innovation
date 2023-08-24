@@ -1,5 +1,3 @@
-Benefits of Agile Workplace Design
-===========================================
 
 Agile workplace design has gained significant attention in recent years due to its numerous benefits for organizations. In this chapter, we will explore the advantages of implementing agile workplace design strategies and how they can positively impact collaboration and innovation within an organization.
 

@@ -1,5 +1,3 @@
-Encouraging Flexibility in Workspaces
-==============================================
 
 In today's fast-paced and dynamic work environments, flexibility is a key factor in creating spaces that foster collaboration and innovation. By encouraging flexibility in workspaces, organizations can empower their employees to adapt and thrive in the ever-changing demands of modern business.
 

@@ -1,5 +1,3 @@
-Chapter 9: Integrating Agile Workplace Design with Organizational Culture
-=========================================================================
 
 Agile workplace design is not just about creating a physical space that fosters collaboration and innovation. It's also about aligning workspace design with business goals and organizational culture. In this chapter, we'll cover strategies for integrating agile workplace design with organizational culture to create a workspace that supports your business goals.
 

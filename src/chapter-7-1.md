@@ -1,5 +1,3 @@
-Common Obstacles to Agile Workplace Design
-===================================================
 
 In this chapter, we will explore the common obstacles that organizations often face when implementing agile workplace design. While agile workplace design offers numerous benefits such as fostering collaboration and innovation, it is important to address these obstacles in order to ensure a successful transition.
 

@@ -1,5 +1,3 @@
-Developing an Agile Mindset as a Leader
-================================================
 
 In this chapter, we will explore the importance of developing an agile mindset as a leader in the context of agile workplace design. By embracing an agile mindset, leaders can effectively navigate the complexities of today's fast-paced and dynamic work environments, foster innovation, and inspire their teams to collaborate and drive meaningful change.
 

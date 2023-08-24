@@ -1,4 +1,3 @@
-# Recap of Key Points
 
 Throughout this book, we have explored the benefits and strategies of agile workplace design. Here is a recap of the key points:
 

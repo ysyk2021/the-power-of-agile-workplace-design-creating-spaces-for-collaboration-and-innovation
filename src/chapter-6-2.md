@@ -1,4 +1,3 @@
-# Qualitative and Quantitative Methods for Evaluation
 
 Measuring the success of an agile workspace design is important to ensure that the workspace is meeting the needs of the business and its employees. In this chapter, we'll explore qualitative and quantitative methods for evaluating the effectiveness of an agile workspace.
 

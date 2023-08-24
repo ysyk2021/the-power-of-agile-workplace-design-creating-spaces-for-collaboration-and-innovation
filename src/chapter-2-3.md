@@ -1,7 +1,3 @@
-Common Myths About Agile Workplace Design
-==================================================
-
-
 
 Agile workplace design has gained significant attention in recent years as organizations strive to create spaces that foster collaboration, innovation, and productivity. However, amidst the growing popularity of this concept, several myths and misconceptions have emerged. In this chapter, we will debunk some common myths surrounding agile workplace design, helping organizations gain a clearer understanding of its true benefits and potential challenges.
 

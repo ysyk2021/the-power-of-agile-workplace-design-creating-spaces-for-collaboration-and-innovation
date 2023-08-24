@@ -1,5 +1,3 @@
-Building a Customized Workspace Design
-===============================================
 
 In this chapter, we will delve into the process of creating a customized workspace design that aligns with the unique needs and culture of an organization. Developing a customized workspace design is essential for maximizing the benefits of agile workplace principles. We will explore the key steps involved in building a customized workspace design and highlight the importance of collaboration and employee engagement throughout the process.
 

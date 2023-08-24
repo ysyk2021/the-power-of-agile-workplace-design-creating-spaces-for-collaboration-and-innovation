@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Obstacles to Agile Workplace Design
-=========================================================
 
 While agile workplace design has many benefits, it can be challenging to implement successfully. In this chapter, we'll explore common obstacles to agile workplace design and provide strategies for overcoming these challenges.
 

@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Agile workplace design is an approach to creating a workspace that supports collaboration, innovation, and flexibility. In this chapter, we will discuss the importance of agile workplace design and provide an overview of what this book covers.
 

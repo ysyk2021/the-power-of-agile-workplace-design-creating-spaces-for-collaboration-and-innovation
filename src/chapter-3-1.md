@@ -1,5 +1,3 @@
-Assessing Your Company's Needs
-=======================================
 
 In this chapter, we will explore the essential process of assessing your company's needs to determine the requirements and goals for implementing agile workplace design. Understanding your organization's unique needs is crucial in creating a workspace that promotes collaboration, boosts productivity, and drives innovation.
 

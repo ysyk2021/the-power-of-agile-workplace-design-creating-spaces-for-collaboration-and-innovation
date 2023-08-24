@@ -1,5 +1,3 @@
-Chapter 3: Designing an Agile Workspace
-=======================================
 
 Designing an agile workspace requires careful consideration of your company's needs, available space options, and a customized workspace design. In this chapter, we'll cover strategies for assessing your company's needs, identifying available space options, and building a customized workspace design.
 

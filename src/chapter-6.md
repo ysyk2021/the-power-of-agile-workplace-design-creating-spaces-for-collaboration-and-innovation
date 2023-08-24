@@ -1,5 +1,3 @@
-Chapter 6: Measuring Success in Agile Workplace Design
-======================================================
 
 Measuring success in agile workplace design is important to ensure that the workspace is meeting the needs of the business and its employees. In this chapter, we'll explore key performance indicators (KPIs) for measuring success and qualitative and quantitative methods for evaluation.
 
